@@ -1,5 +1,5 @@
 # Hydro University
 
-Welcome! Let us learn together. 
+Course material and problem sets.
 
-Content coming soon.
+🌐 Website: https://hydrosanj.github.io/hydrouniversity/
